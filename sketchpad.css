@@ -16,3 +16,7 @@
     box-sizing: border-box;
 
 }
+.my-div:hover{
+    background-color: rebeccapurple;
+    transform: scale(1.1);
+}
